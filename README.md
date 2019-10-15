@@ -1,6 +1,6 @@
 # myPage
 Name: Utsav Patel
-Email: Utsav_Patel@student.uml.edu
+
 
 This website can be seen at https://patelutsav99.github.io/myPage/index2.html
 using the github server
